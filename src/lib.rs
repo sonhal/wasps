@@ -20,7 +20,5 @@ impl  WaspHive {
     fn handle(register: String) {
         todo!()
     }
-
-    fn 
     
 }
